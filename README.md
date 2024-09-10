@@ -43,8 +43,20 @@
   | [Week-6](#Week-6) | [Week-7](#Week-7) | [Week-8](#Week-8) | [Week-9](#Week-9) | [Week-10](#Week-10) | 
   | [Week-11](#Week-11) | [Week-12](#Week-12) | [Week-13](#Week-13) | [Week-14](#Week-14) | [Week-15](#Week-15) | 
 
-# Week-1
+
+# Week-2
 [Top](#TOP)
+## 2024-09-05
+  - When you are trying to create a function, as a developer it's imperative to make sure you understand the functions job. You can find resources online to use, instead of re-creating a less effective version of the wheel.
+  - NumPy has packages called 'zeros' and 'ones' that can create matrix's for you. Zeros and Ones will respectively create matrix's full of 0's or 1's.
+    ```py
+    # 2 items -> 3 items -> 5 items.
+    # This matrix of 2 x 3 x 5 has 30 items
+    matrix_c = np.zeroes((2, 3, 5)) 
+    ```
+  - When working with a Tensor, we call each cell, an object.
+
+
 ## 2024-09-03
   ### Python Programming and Using Libraries
   - First dimensional data structure is an List, second dimensional data structure is an Array, third is a Matrix, and fourth and past is a Tensor. Hense, TensorFlow
