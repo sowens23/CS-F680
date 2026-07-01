@@ -22,7 +22,7 @@ hands-on projects in Python (Tensorflow), preparing you to shape the future of A
 | Final Presentation | --- | [Final Project Presentation](https://github.com/sowens23/CS-F680/blob/main/homework/final/CS680%20Presentation%20Spencer.mp4) | --- |
 
 # Watch Video Demo
-https://raw.githubusercontent.com/sowens23/CS-F680/main/homework/final/CS680%20Presentation%20Spencer.mp4
+https://raw.githubusercontent.com/sowens23/CS-F680/blob/main/homework/final/CS680%20Presentation%20Spencer.mp4
 
 # Notes
 - When you are trying to create a function, as a developer it's imperative to make sure you understand the functions job. You can find resources online to use, instead of re-creating a less effective version of the wheel.
